@@ -38,5 +38,15 @@
     "date": "2026-07-05",
     "image": "",
     "body": "Muitas empresas confundem frequência com presença. Postar muito sem coerência não constrói marca.\n\nMostramos como manter uma presença digital consistente — visual, tom de voz e mensagem alinhados — para fortalecer a reputação e ser lembrado no momento da decisão."
+  },
+  {
+    "id": "1783973624613",
+    "slug": "teste-backend-apagar",
+    "title": "Teste backend (apagar)",
+    "tag": "Teste",
+    "date": "2026-07-13",
+    "description": "Validação do login+API.",
+    "body": "Um.\n\nDois.",
+    "image": ""
   }
 ]
